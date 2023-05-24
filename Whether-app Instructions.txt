@@ -1,0 +1,24 @@
+First step-up the environment 
+
+use this below command in Terminal of Visual Studio 
+
+1. npm i -g expo-cli
+2. npx create-expo-app WhetherApp-QuestTask
+
+Now, your schema is App is ready with default
+
+1. npm start --- This will open your app and shows the QR code.
+2. Scan the QR code with your phone.
+
+To Use Whether API
+
+Register with the below link
+
+https://home.openweathermap.org/users/sign_up
+
+copy the API key from website and paste to App.js
+
+copy the location api link and paste to the App.js
+
+
+
